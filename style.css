@@ -83,6 +83,42 @@ h1, p {
     text-align: center;
 }
 
+@media (max-width: 769px) {
+    .text {
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        font-size: 39px;
+        margin-top: 170px;
+        text-align: center;
+    }
+    .barra {
+        width: 233px;
+        height: 5px;
+        background-color: #77dada;
+        margin: auto;
+    }
+    .img-fluid {
+        margin-left: 0px;
+        margin-bottom: 20px;
+    }
+    iframe {
+        margin-left: 75px;
+        margin-bottom: 20px;
+    }
+    .text2 {
+        font-family: 'Roboto', sans-serif;
+        color: black;
+        font-size: 45px;
+        margin-top: 70px;
+        text-align: center;
+    }
+    .card {
+        margin-right: 5px;
+        margin-left: 100px;
+        margin-bottom: 15px;
+    }
+}
+
 @media (max-width: 426px) {
     .text {
         font-family: 'Roboto', sans-serif;
