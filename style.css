@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.container-fluid {
+    height: 500px;
+    background-image: url(01.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+}
+.text {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 70px;
+    margin-top: 170px;
+    text-align: center;
+}
+.barra {
+    width: 400px;
+    height: 5px;
+    background-color: #77dada;
+    margin: auto;
+
+}
+.second {
+    margin-bottom: 40px;
+}
+.img-fluid {
+    margin-left: 208px;
+    margin-bottom: 20px;
+}
+iframe {
+    margin-left: 275px;
+    margin-bottom: 20px; 
+}
+h1, p {
+    text-align: center;
+}
+.text2 {
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 70px;
+    margin-top: 70px;
+    text-align: center;
+}
+.barra2 {
+    width: 240px;
+    height: 5px;
+    background-color: #77dada;
+    margin: auto;
+
+}
+.terceira {
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+.card {
+    margin-right: 5px;
+    margin-bottom: 15px;
+}
+.card-img-top {
+    height: 200px;
+    width: 194px;
+    margin: auto;
+}
+.ft6 {
+    margin-left: 43px;
+}
+.andreft {
+    width: 226px;
+    padding: 0px 10px 0px;
+}
+.andre {
+    text-align: center;
+}
+.bruno {
+    text-align: center;
+}
+.lucas {
+    text-align: center;
+}
+
+@media (max-width: 426px) {
+    .text {
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        font-size: 39px;
+        margin-top: 170px;
+        text-align: center;
+    }
+    .barra {
+        width: 233px;
+        height: 5px;
+        background-color: #77dada;
+        margin: auto;
+    }
+    .img-fluid {
+        margin-left: 0px;
+        margin-bottom: 20px;
+    }
+    iframe {
+        width: 365px;
+        height: 215px;
+        margin-left: 0px;
+        margin-bottom: 20px;
+    }
+    .text2 {
+        font-family: 'Roboto', sans-serif;
+        color: black;
+        font-size: 45px;
+        margin-top: 70px;
+        text-align: center;
+    }
+    .card {
+        margin-right: 5px;
+        margin-left: 100px;
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width: 321px) {
+    .text {
+        font-family: 'Roboto', sans-serif;
+        color: white;
+        font-size: 39px;
+        margin-top: 170px;
+        text-align: center;
+    }
+    .barra {
+        width: 233px;
+        height: 5px;
+        background-color: #77dada;
+        margin: auto;
+    }
+    .img-fluid {
+        margin-left: 0px;
+        margin-bottom: 20px;
+    }
+    iframe {
+        width: 297px;
+        height: 215px;
+        margin-left: 0px;
+        margin-bottom: 20px;
+    }
+    .text2 {
+        font-family: 'Roboto', sans-serif;
+        color: black;
+        font-size: 45px;
+        margin-top: 70px;
+        text-align: center;
+    }
+    .card {
+        margin-right: 5px;
+        margin-left: 45px;
+        margin-bottom: 15px;
+    }
+}
