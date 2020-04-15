@@ -127,7 +127,7 @@ h1, p {
         font-family: 'Roboto', sans-serif;
         color: white;
         font-size: 39px;
-        margin-top: 170px;
+        margin-top: 220px;
         text-align: center;
     }
     .barra {
@@ -141,7 +141,7 @@ h1, p {
         margin-bottom: 20px;
     }
     iframe {
-        width: 355px;
+        width: 330px;
         height: 215px;
         margin-left: 0px;
         margin-bottom: 20px;
